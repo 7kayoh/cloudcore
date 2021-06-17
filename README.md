@@ -1,4 +1,4 @@
-[![Publish docs via GitHub Pages](https://github.com/7kayoh/cloudcore/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/7kayoh/cloudcore/actions/workflows/main.yml)
+[![Publish docs via GitHub Pages](https://github.com/7kayoh/cloudcore/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/7kayoh/cloudcore/actions/workflows/main.yml)
 
 # CloudCore
 CloudCore is an efficient and reliable MVC-based game framework for Roblox experiences.
